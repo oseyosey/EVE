@@ -5,4 +5,4 @@ Intelligence Chabot for Preventing Depression
 
 2nd part: gather the data, chatbot developed 
 
-34d part: merge 
+3rd part: merge 
