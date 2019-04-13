@@ -1,0 +1,5 @@
+
+*.txt
+*.pkl
+s2ss*.ckpt.*
+checkpoint
