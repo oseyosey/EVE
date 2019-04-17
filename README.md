@@ -13,6 +13,9 @@ Part 4: Develop and train seq2seq chatbot
 Part 5: Merge chatbot with sentiment analysis
 
 需要下载预训练词向量，使用的是‘chinese-word-vectors’知乎Word+Ngram的词向量。
-下载之后放在/EVE/根目录下就行了。
-链接是这个：https://pan.baidu.com/s/1OQ6fQLCgqT43WTwh5fh_lg
+
+下载之后放在/EVE/根目录下。
+
+链接：https://pan.baidu.com/s/1OQ6fQLCgqT43WTwh5fh_lg
+
 来自：https://github.com/Embedding/Chinese-Word-Vectors
