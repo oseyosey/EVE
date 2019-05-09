@@ -1,0 +1,12 @@
+sgns.zhihu.bigram
+Sentiment Analysis/sentiment_checkpoint.keras
+.DS_Store
+Data Preprocessing/.DS_Store
+Data Preprocessing/Classifier/sentiment_checkpoint.keras
+Sentiment Analysis/Questionnaire Review/.DS_Store
+Seq2seq Chatbot/chatbot_cut/dgk_shooter_min.conv
+Seq2seq Chatbot/chatbot_cut/wiki.zh.vec
+Seq2seq Chatbot/chatbot_cut/chatbot.pkl
+Seq2seq Chatbot/chatbot_cut/emb.pkl
+Seq2seq Chatbot/chatbot_cut/word_vec.pkl
+*.pyc
