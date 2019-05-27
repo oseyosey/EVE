@@ -10,3 +10,4 @@ Seq2seq Chatbot/chatbot_cut/chatbot.pkl
 Seq2seq Chatbot/chatbot_cut/emb.pkl
 Seq2seq Chatbot/chatbot_cut/word_vec.pkl
 *.pyc
+*.keras
