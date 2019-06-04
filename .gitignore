@@ -11,3 +11,6 @@ Seq2seq Chatbot/chatbot_cut/emb.pkl
 Seq2seq Chatbot/chatbot_cut/word_vec.pkl
 *.pyc
 *.keras
+Seq2seq Chatbot/chatbot_cut/s2ss_chatbot.ckpt.data-00000-of-00001
+Seq2seq Chatbot/chatbot_cut/s2ss_chatbot.ckpt.index
+Seq2seq Chatbot/chatbot_cut/s2ss_chatbot.ckpt.meta
